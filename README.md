@@ -8,7 +8,7 @@ The dataset includes the project history of [Scala](http://www.scala-lang.org/) 
 
 ## Technology
 - Python
-- 
+
 ## Topics
 - Data Manipulation
 - Data Visualization
